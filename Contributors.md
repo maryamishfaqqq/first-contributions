@@ -2782,11 +2782,8 @@ bhumika
 - [Ajwa Shahid](https://github.com/ajwashahid150-source)
 =======
 - [Shawon Dey](https://github.com/shawon-dey188)
->>>>>>> 0336b03fb650815131c63deef0e6780b7e5342e6
 >>>>>>>
 >>>>>>> 
-- [rod-liu-id](https://github.com/rod-liu-id)
-  >>>>>
-  >>>>>                               - [Maryam](https://github.com/maryamishfaqqq)
+- [Maryam](https://github.com/maryamishfaqqq)
 
 - [Ayush Aman](https://github.com/Ayushaman1291)
